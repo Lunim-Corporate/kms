@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+requests
+sqlalchemy
+psycopg2-binary
+alembic
+pgvector
+openai
+httpx
+tenacity
